@@ -13,6 +13,9 @@ Manually curated collection of some useful repositories
 
 * [AudioKit](https://github.com/audiokit/AudioKit) : an audio synthesis, processing and analysis platform.
 
+## Rust
+* [Cargo.io](https://crates.io/) : Collection of rust libraries.
+
 ## React
 
 [React Patterns](https://github.com/chantastic/reactpatterns.com): A collection of design patterns for React developers.
